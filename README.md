@@ -1,0 +1,1 @@
+The file async.js contains the code we went over today plus some extras as well as comments explaining. Enjoy, and don't forget to run the file by entering "node async" into the command line, and see the order everything logs in.
