@@ -130,6 +130,8 @@ function getCNN_dot_then() {
 	})
 }
 
+//The other important thing to remember about async/await is that a function that is flagged with the "async" keyword will return always Promise, even if you explicitly say to return something else. If you do use the "return" keyword in an async function, the Promise will resolve to that return value when it fulfills.
+
 //Here's one more side-by-side-by-side comparison of callbacks, Promise.then, and async+await:
 
 //an async function i made up that takes callbacks.
